@@ -27,12 +27,6 @@
     border-radius: 50%;
 }
 
-/*
-
-
-a{
-color: #3498DB; }
-
 .bg-primary {
     background-color: #3498DB!important;
 }
@@ -41,6 +35,14 @@ color: #3498DB; }
 background-color: #3498DB;
 
 }
+
+/* color: #1abc9c*
+
+
+a{
+color: #3498DB; }
+
+
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
 color: #3498DB; }
