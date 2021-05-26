@@ -44,9 +44,11 @@ background-color: #3498DB;
 a{
 color: #3498DB; }
 
-a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+
+a.nav-link.active {
     color: #fff;
-background: #3498DB;}
+background: #3498DB;
+}
 
 /* color: #1abc9c*
 
