@@ -41,3 +41,11 @@ background-color: #3498DB;
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
 color: #3498DB; }
+
+
+element.style {
+}
+
+a.nav-link.py-3.px-0.px-lg-3.rounded.js-scroll-trigger {
+    background-color: #3498DB;
+}
