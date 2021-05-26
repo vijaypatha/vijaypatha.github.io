@@ -28,16 +28,16 @@
 }
 
 a{
-color: #3498DB}
+color: #3498DB; }
 
 .bg-primary {
     background-color: #3498DB!important;
 }
 
 .icon-contact{
-background-color: #3498DB
+background-color: #3498DB;
 
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-color: #3498DB}
+color: #3498DB; }
