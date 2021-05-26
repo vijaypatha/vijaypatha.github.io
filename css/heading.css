@@ -45,9 +45,10 @@ a{
 color: #3498DB; }
 
 
-a.nav-link.active {
-    color: #fff;
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover{
+color: #fff;
 background: #3498DB;
+
 }
 
 /* color: #1abc9c*
@@ -73,5 +74,11 @@ color: #3498DB; }
 a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
 background: #3498DB;}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover{
+color: #fff;
+background: #3498DB;
+
+}
 
 */
